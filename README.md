@@ -4,7 +4,7 @@
 
 
 
-# Vaibhav Mojidra <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavmojidra&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavmojidra" /> </p>
+# <img align="center" src="https://raw.githubusercontent.com/VaibhavMojidra/VaibhavMojidra/master/images/VaibhavMojidra.png" alt="Vaibhav Mojidra" height="40" width="40" style="margin-bottom:5px" /> Vaibhav Mojidra <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavmojidra&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavmojidra" /> </p>
 
 <img align="right" alt="Vaibhav Mojidra Coding" width="400" src="https://raw.githubusercontent.com/VaibhavMojidra/VaibhavMojidra/master/images/VaibhavMojidraCoding.gif"></img>
 
