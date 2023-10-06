@@ -9,7 +9,7 @@
 <img align="right" alt="Vaibhav Mojidra Coding" width="400" src="https://raw.githubusercontent.com/VaibhavMojidra/VaibhavMojidra/master/images/VaibhavMojidraCoding.gif"></img>
 
 
-<p align="left">I'm a passionate software developer with a specialization in mobile app development. With a strong foundation in programming and an eye for creating intuitive user experiences, I have developed several successful apps that are live on the Google Play Store. Throughout my journey as a developer, I have gained expertise in various programming languages, frameworks, and tools that empower me to bring ideas to life efficiently. I have experience working with Android Studio, Java, Kotlin, and various libraries to build scalable and performant mobile apps. Feel free to explore my GitHub repositories, where you'll find a collection of my personal projects & coding practices.</p>
+<p align="left">I'm a passionate software developer with a specialization in full stack development. With a strong foundation in programming and an eye for creating intuitive user experiences, I have developed several successful apps that are live on the Google Play Store. Throughout my journey as a developer, I have gained expertise in various programming languages, frameworks, and tools that empower me to bring ideas to life efficiently. I have experience working with Android Studio, Java, Kotlin, and various libraries to build scalable and performant mobile apps. Feel free to explore my GitHub repositories, where you'll find a collection of my personal projects & coding practices.</p>
 
 
 - 🌐 Here is my website, do have a look [https://vaibhavmojidra.github.io/site/](https://vaibhavmojidra.github.io/site/)
